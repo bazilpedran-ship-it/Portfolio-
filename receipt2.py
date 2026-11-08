@@ -23,7 +23,7 @@ def center(text, font):
 
 center("MWALIMU SHOP", font_big)
 y += 45
-center("Kampala - Uganda | Tel: 0770 123 456", font_small)
+center("Kampala - Uganda | Tel: 0776 963 208", font_small)
 y += 35
 center("----------------------------------------", font_small)
 y += 35
